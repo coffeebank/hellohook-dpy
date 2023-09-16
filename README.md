@@ -6,8 +6,6 @@
 
 Send invite-based welcome messsages, and assign custom roles when new members join with the invite!
 
-Design a custom profile picture, invite roles, and embeds - for every Discord server your bot is in!
-
 <br />
 
 ## Drafting your Webhook Message
